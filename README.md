@@ -6,8 +6,9 @@ A personal Python utility module I find myself reusing frequently
 ## Installation
 
 ```bash
-pip install #TBD
+pip install git+https://github.com/RRomeroJr/rrjr_py
 ```
+- normal pypi install coming soon.
 
 ## Usage
 
