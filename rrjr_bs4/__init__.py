@@ -3,6 +3,7 @@ try:
 except ImportError as _ie:
     raise ImportError("[rrjr] Beautiful soup not found, but you tried to import beautiful soup stuff.") from _ie
 # from rrjr_fm import sp_open as _sp_open Example for the future
+#test
 # Get Tag from the imported module, not "from bs4"
 _Tag = _bs4.Tag
 def g_tag_head(tag: _Tag):
